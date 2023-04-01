@@ -1,2 +1,2 @@
-# nissan-capstone_project
-This is the codebase for the Nissan Capstone Project (Spring 2023)
+# Nissan North America - Capstone Project (Spring 2023)
+This is the codebase for the Nissan Capstone Project 
