@@ -1,5 +1,6 @@
 # Nissan North America - Capstone Project (Spring 2023)
 This is the codebase for the Nissan Capstone Project. 
+
 The project seeks to find what automobile features that customers care about and pain points faced by customers and attempting to understand what features could solve it for them. This is done across both Non-EV and EV vehicles which represent 137 Models and 23 Companies for Non-EV vehicles and 42 models and 23 companies for EV vehicles. Customer Reviews and Comments are scraped from Edmunds.com, Youtube.com, Cars.com and KellyBlueBook(KBB.com) through the use of Open source Web Scraping libraries like beautifulsoup4 and Google's official YoutubeV3API in case of Youtube. The Information Extraction, Semantic Condensation pipeline is performed using OpenAI's ChatGPT API and Prompt Engineering which the Semantic Tagging is performed using the Sentence Transfromers Library.
 
 The whole corpus is "condensed" into a semantic master list of automobile features across Positive, Negative and Wishlist categories and each comment is tagged into one of the same. The resulting analysis supports segmentation across various market cross-sections like Vehicle Make, Model, Year of Production and Model which allows for both broad and granular analyses within a comapany and across competitors while also offering robust insights. 
