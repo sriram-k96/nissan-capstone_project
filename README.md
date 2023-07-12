@@ -30,6 +30,6 @@ EVs - Same file but operation is performed for Provided Electric Vehicles of int
 17. Similarity_Analysis_EV: Sentence Similarity aspect of the pipeline using Sentence Transformers - EV Version
 18. LegacyCodeDump: Legacy pieces of code used for testing, debugging and alternative methods tried held as an archive.
 19. Nissan_Segment_List: List of Vehicles (Non-EVs) and their associated metadata provided by Nissan which was of interest in this analysis.
-20. EV_Vehicle_Segments: List of Vehicles (EVs) and their associated metadata provided by Nissan which was of interest in this analysis.
+20. EV_VehicleSegments: List of Vehicles (EVs) and their associated metadata provided by Nissan which was of interest in this analysis.
 21. Nissan_Capstone_Presentation: Capstone Powerpoint Presentation
 22. Capstone_ReportFinal: Capstone Final Report 
